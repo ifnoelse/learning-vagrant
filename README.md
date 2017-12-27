@@ -1,4 +1,3 @@
-* [介绍](README.md)
 * [Ruby基本语法](docs/ruby/README.md)
   * [基本语句](docs/ruby/basic.md)
   * [数据类型](docs/ruby/data_type.md)
