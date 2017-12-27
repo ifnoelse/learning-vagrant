@@ -1,3 +1,5 @@
+![](docs/img/vagrant.jpg)
+
 # 概述
 
 本书主要介绍了使用Vagrant搭建开发环境的相关内容
