@@ -1,0 +1,6 @@
+VAGRANTFILE_API_VERSION = "2"
+Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
+  config.vm.define "web" do |web|
+    web.vm.box = "bento/centos-7.4"
+  end
+end
