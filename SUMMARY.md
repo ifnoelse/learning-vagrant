@@ -5,5 +5,5 @@
   * [定义变量及方法](docs/ruby/def_vars.md)
   * [流程控制](hadoop_overview/hdfs.md)
   * [循环](hadoop_overview/yarn.md)
-* [vagrant](install/README.md)
+* [vagrant](docs/vagrant/README.md)
 * [参考文献](REFERENCE.md)
