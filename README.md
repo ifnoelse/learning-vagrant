@@ -1,5 +1,3 @@
-<img src="docs/img/vagrant_workflow.jpg" width="640" height="480" />
-
 # 概述
 
 本书主要介绍了使用Vagrant搭建开发环境的相关内容
@@ -11,6 +9,10 @@ https://github.com/ifnoelse/learning-vagrant
 # 阅读地址
 
 https://ifnoelse.gitbooks.io/learning-vagrant/content/
+
+# Vagrant
+
+<img src="docs/img/vagrant_workflow.jpg" width="640" height="480" />
 
 # 目录
 
