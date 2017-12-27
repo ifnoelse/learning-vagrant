@@ -1,4 +1,4 @@
-<img src="docs/img/vagrant_workflow.jpg" width="720" height="540" />
+<img src="docs/img/vagrant_workflow.jpg" width="640" height="480" />
 
 # 概述
 
