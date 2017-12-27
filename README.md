@@ -10,7 +10,7 @@ https://github.com/ifnoelse/learning-vagrant
 
 https://ifnoelse.gitbooks.io/learning-vagrant/content/
 
-# Vagrant
+# Vagrant Workflow
 
 <img src="docs/img/vagrant_workflow.jpg" width="640" height="480" />
 
