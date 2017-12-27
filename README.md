@@ -1,5 +1,4 @@
-![](docs/img/vagrant_workflow.jpg =200x300)
-<img src="docs/img/vagrant_workflow.jpg" />
+<img src="docs/img/vagrant_workflow.jpg" width="400" height="300" />
 
 # 概述
 
