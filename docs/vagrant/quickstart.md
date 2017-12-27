@@ -19,3 +19,8 @@ vagrant up
 ``` bash
 vagrant ssh
 ```
+> 以上命令是通过秘钥登陆的所以不用输入用户名密码
+### 通过ssh工具登陆
+- 查看启动信息找到ssh地址信息，例如：“default: SSH address: 127.0.0.1:2203”
+- 将“127.0.0.1:2203”输入到ssh工具地址栏
+- 输入用户名密码vagrant/vagrant
