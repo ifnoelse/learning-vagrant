@@ -6,4 +6,5 @@
   * [流程控制](docs/ruby/flow_control.md)
   * [循环](docs/ruby/loop.md)
 * [vagrant](install/README.md)
+* [Ruby基本语法](docs/ruby/README.md)
 * [参考文献](REFERENCE.md)
