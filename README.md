@@ -1,4 +1,4 @@
-![](docs/img/vagrant.jpg)
+![](docs/img/vagrant_workflow.jpg)
 
 # 概述
 
