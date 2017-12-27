@@ -1,9 +1,15 @@
 # 概述
+
 本书主要是为了让没有大数据基础的同学能够快速搭建及使用Hive
+
 # Github
+
 https://github.com/ifnoelse/learning-vagrant
+
 # 阅读地址
+
 https://ifnoelse.gitbooks.io/learning-vagrant/content/
+
 # 目录
 * [Ruby基本语法](docs/ruby/README.md)
   * [基本语句](docs/ruby/basic.md)
@@ -18,6 +24,3 @@ https://ifnoelse.gitbooks.io/learning-vagrant/content/
   * [常用命令](docs/vagrant/common_commands.md)  
   * [单虚拟机环境](docs/vagrant/single_machine_environments.md) 
 * [参考文献](REFERENCE.md)
-
-
-
