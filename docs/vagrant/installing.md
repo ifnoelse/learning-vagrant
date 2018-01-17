@@ -1,5 +1,5 @@
 # 安装Vagrant与Virtual Box
-## 下载地址
+## 下载
 - Vagrant : https://www.vagrantup.com/downloads.html
 - Virtual Box : https://www.virtualbox.org/wiki/Downloads
 ## 安装

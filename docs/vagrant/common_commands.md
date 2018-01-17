@@ -1,4 +1,5 @@
 # 常用命令
+
 - `vagrant box`            manages boxes: installation, removal, etc.
 - `vagrant connect`        connect to a remotely shared Vagrant environment
 - `vagrant destroy`        stops and deletes all traces of the vagrant machine
@@ -26,4 +27,5 @@
 - `vagrant up`             starts and provisions the vagrant environment
 - `vagrant validate`       validates the Vagrantfile
 - `vagrant version`        prints current and latest Vagrant version
+
 >参考：https://www.vagrantup.com/docs/cli/
