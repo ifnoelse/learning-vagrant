@@ -29,4 +29,5 @@ https://ifnoelse.gitbooks.io/learning-vagrant/content/
   * [快速体验](docs/vagrant/quickstart.md)
   * [常用命令](docs/vagrant/common_commands.md)
   * [单虚拟机环境](docs/vagrant/single_machine_environments.md)
+  * [多虚拟机环境](docs/vagrant/multiple_machine_environments.md)
 * [参考文献](REFERENCE.md)
