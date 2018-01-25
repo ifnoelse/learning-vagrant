@@ -32,4 +32,5 @@ https://ifnoelse.gitbooks.io/learning-vagrant/content/
   * [多虚拟机环境](docs/vagrant/multiple_machine_environments.md)
   * [系统安装之后的任务](docs/vagrant/post_installing_task.md)
   * [Vagrant Cloud](docs/vagrant/vagrant_cloud.md)
+  * [自作自己的 Box](docs/vagrant/making_box.md)
 * [参考文献](REFERENCE.md)
