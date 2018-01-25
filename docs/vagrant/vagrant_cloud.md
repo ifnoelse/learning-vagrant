@@ -9,3 +9,5 @@ vagrant cloud 与 docker hub 或者 maven 仓库一样，都是用来存储公�
 ## 查找自己想要的 box
 
 ![](../img/search_box.png)
+
+> 推荐仓库：https://app.vagrantup.com/bento
