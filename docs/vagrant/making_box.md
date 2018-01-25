@@ -58,7 +58,7 @@ packer build -only=virtualbox-iso -var-file=centos7.json centos.json
 通过以下命令将刚才打包好的 box 导入到 vagrant 中
 
 ``` bash
-vagrant box add centos-7.3 box/virtualbox/centos7-0.0.99.box
+vagrant box add centos-7.4 box/virtualbox/centos7-0.0.99.box
 ```
 
 导入成功之后执行以下命令，可以查看到刚才导入的 box 文件
