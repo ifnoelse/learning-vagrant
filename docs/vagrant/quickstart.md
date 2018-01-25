@@ -7,7 +7,7 @@ vagrant init bento/centos-7.4
 vagrant up
 ```
 > 如果本地没有bento/centos-7.4这个box，vagrant会自动从远程仓库下载 <br />
-> 如果远程下载 box 太慢，请猛戳这里[自作自己的 Box](making_box.md)
+> 如果远程下载 box 太慢，[请猛戳这里](importing_box.md)
 
 执行效果如下：
 ![](../img/vagrant_quickstart.png)
