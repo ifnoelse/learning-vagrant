@@ -33,6 +33,6 @@ https://ifnoelse.gitbooks.io/learning-vagrant/content/
   * [系统安装之后的任务](docs/vagrant/post_installing_task.md)
   * [虚拟机网络](docs/vagrant/network.md)
   * [自作自己的 Box](docs/vagrant/making_box.md)
-  * [Vagrant Cloud](docs/vagrant/vagrant_cloud.md)
+  * [使用 Vagrant Cloud](docs/vagrant/vagrant_cloud.md)
   * [Vagrnat 体验项目](docs/vagrant/vagrant_express.md)
 * [参考文献](REFERENCE.md)
