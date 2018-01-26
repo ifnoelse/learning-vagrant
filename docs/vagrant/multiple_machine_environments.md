@@ -1,11 +1,11 @@
 # 多虚拟机环境
+
 ## 定义虚拟机
+
 - 新建一个目录，目录名任意
 - 将以下内容保存到名为 Vagrantfile 的文件中
-``` ruby
-# -*- mode: ruby -*-
-# vi: set ft=ruby :
 
+``` ruby
 vms = {"192.168.100.101" => "node-1",
        "192.168.100.102" => "node-2",
        "192.168.100.103" => "node-3"}
@@ -43,4 +43,5 @@ Vagrant.configure("2") do |config|
   end
 end
 ```
+
 在新建目录下执行`vagrant up`启动虚拟机
